@@ -288,6 +288,11 @@
 		iter++
 	}, 1000);
 
+	
 
 })(jQuery);
+
+function doClass() {
+	window.open('https://meet.jit.si/aleclase', '_blank');
+}
 
