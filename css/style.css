@@ -9145,6 +9145,9 @@ textarea.form-control {
 .linkClass{
   font-size: 1.5rem!important;
 }
+.imgPayPal{
+  width: 14rem;
+}
 @media (max-width: 991.98px) {
   .instructor{
     font-size: 2rem!important; 
@@ -9152,6 +9155,10 @@ textarea.form-control {
   .linkClass{
     font-size: 1rem!important;
   }
+  .imgPayPal{
+    width: 10rem;
+  }
+  
 }
 @media (max-width: 767.98px) {
   .instructor{
@@ -9159,5 +9166,8 @@ textarea.form-control {
   }
   .linkClass{
     font-size: .8rem!important;
+  }
+  .imgPayPal{
+    width: 8rem;
   }
 }
