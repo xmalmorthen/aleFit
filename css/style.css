@@ -9146,7 +9146,7 @@ textarea.form-control {
   font-size: 1.5rem!important;
 }
 .imgPayPal{
-  width: 14rem;
+  /* width: 14rem; */
 }
 @media (max-width: 991.98px) {
   .instructor{
@@ -9156,7 +9156,7 @@ textarea.form-control {
     font-size: 1rem!important;
   }
   .imgPayPal{
-    width: 10rem;
+    /* width: 10rem; */
   }
   
 }
@@ -9168,6 +9168,6 @@ textarea.form-control {
     font-size: .8rem!important;
   }
   .imgPayPal{
-    width: 8rem;
+    /* width: 8rem; */
   }
 }
